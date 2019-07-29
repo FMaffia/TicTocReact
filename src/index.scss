@@ -1,0 +1,28 @@
+@import '~bootstrap/scss/bootstrap.scss';
+
+body {
+    font: 14px "Century Gothic", Futura, sans-serif;
+  }
+  
+  .square {
+    float: left;
+    font-size: 60px;
+    font-weight: bold;
+    line-height: 100px;
+    height: 100px;
+    margin-right: 5px;
+    margin-top: 5px;
+    padding: 0;
+    text-align: center;
+    border-style: solid;
+    width: 100px;
+    border-width: 1px;
+    border-radius: 48px;
+    border-color: #b2b2b2;
+    
+
+  }
+  
+  .historyButton:hover{
+    font-weight: bold;
+  }
